@@ -1,0 +1,21 @@
+{
+    "name": "dark-vibe",
+    "displayName": "vibrant dark mode",
+    "description": "vibrant dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark vibes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark vibes-color-theme.json"
+            }
+        ]
+    }
+}
